@@ -7,7 +7,7 @@ It showcases my ability to perform data cleaning, modeling, and transformation a
 - <a href = "https://github.com/Umeshpratapsingh1306/Data-Analysis-Power-Bi-Deshboard/blob/main/Mobile%20Sales%20Data.xlsx"> Mobile Store Sales Dataset</a>
 
 ## Dashboard Link
-- Dashboard interection <a herf = "https://github.com/Umeshpratapsingh1306/Data-Analysis-Power-Bi-Deshboard/blob/main/Power%20BI%20dashboard.pbix">View Dashboard</a>
+- Dashboard interection <a herf = "[https://github.com/Umeshpratapsingh1306/Data-Analysis-Power-Bi-Deshboard/blob/main/Power%20BI%20dashboard.pbix](https://github.com/Umeshpratapsingh1306/Data-Analysis-Power-Bi-Deshboard/blob/main/Power%20BI%20dashboard.pbix)">View Dashboard</a>
  
 ## Key Features
 1. Data Cleaning & Transformation using Power Query.
