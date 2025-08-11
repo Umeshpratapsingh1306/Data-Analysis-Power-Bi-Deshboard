@@ -4,7 +4,10 @@ This project is an interactive Power BI dashboard built using mobile store sales
 It showcases my ability to perform data cleaning, modeling, and transformation along with creating advanced DAX measures for deeper insights. The dashboard is designed to be both visually appealing and functionally rich, helping stakeholders analyze key sales trends and performance metrics.
 
 ## Dataset used
-- <a href = "https://github.com/Umeshpratapsingh1306/Data-Analysis-Power-Bi-Deshboard/blob/main/Mobile%20Sales%20Data.xlsx"> Mobile Store Sales Dashboard</a>
+- <a href = "https://github.com/Umeshpratapsingh1306/Data-Analysis-Power-Bi-Deshboard/blob/main/Mobile%20Sales%20Data.xlsx"> Mobile Store Sales Dataset</a>
+
+## Dashboard Link
+- <a herf = "https://github.com/Umeshpratapsingh1306/Data-Analysis-Power-Bi-Deshboard/blob/main/Power%20BI%20dashboard.pbix">Mobile Store Sales Dashboard</a>
  
 ## Key Features
 1. Data Cleaning & Transformation using Power Query.
@@ -35,5 +38,7 @@ It showcases my ability to perform data cleaning, modeling, and transformation a
 6. What is the contribution of each brand to overall sales?
 7. Which months or quarters have peak sales periods?
 
+## Dashboard 
+"C:\Users\asus\Pictures\Screenshots\POWER BI Mobile Store Deshboard.png"
 
 
