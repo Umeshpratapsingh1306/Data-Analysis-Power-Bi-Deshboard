@@ -1,2 +1,4 @@
-# Data-Analysis-Power-Bi-Deshboard
-Created an interactive Power BI dashboard to analyze mobile store sales data, featuring data cleaning, DAX measures, and custom modeling. Designed dynamic visualizations for actionable insights and enhanced decision-making.
+#Mobile Store Sales Dashboard – Power BI
+##Project Overview
+This project is an interactive Power BI dashboard built using mobile store sales data.
+It showcases my ability to perform data cleaning, modeling, and transformation along with creating advanced DAX measures for deeper insights. The dashboard is designed to be both visually appealing and functionally rich, helping stakeholders analyze key sales trends and performance metrics.
