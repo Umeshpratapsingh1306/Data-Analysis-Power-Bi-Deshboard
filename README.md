@@ -40,4 +40,4 @@ It showcases my ability to perform data cleaning, modeling, and transformation a
 
 ## Dashboard 
 
-![Dashboard Preview](C:\Users\asus\Desktop\Deshboard\Image)
+![Dashboard Preview]("C:\Users\asus\Desktop\Deshboard\Image\Dashboard.png")
