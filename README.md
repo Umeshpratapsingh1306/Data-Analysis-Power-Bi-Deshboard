@@ -39,6 +39,5 @@ It showcases my ability to perform data cleaning, modeling, and transformation a
 7. Which months or quarters have peak sales periods?
 
 ## Dashboard 
-"C:\Users\asus\Pictures\Screenshots\POWER BI Mobile Store Deshboard.png"
 
 
